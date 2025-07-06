@@ -17,7 +17,7 @@
 - 📁 Saves to `logs/` with timestamped folders
 - ⚡ Fast and memory-efficient
 - 🧠 Learn how credit card checksums work via Luhn algorithm
-- 🖥️ Fully functional CLI using [Cobra](https://github.com/spf13/cobra)
+- 🖥️ Fully functional CLI using [Cobra](https://github.com/spf13/cobra) (Soon..)
 
 ---
 
